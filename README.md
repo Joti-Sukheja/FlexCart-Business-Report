@@ -27,7 +27,7 @@ This project presents an interactive **Power BI dashboard** designed to analyze 
 
 ## 📸 Dashboard Preview
 
-<img src="report/FlexCart_Sales_dashboard.png" alt="FlexCart Sales Dashboard Screenshot" width="100%">
+<img src="report/FlexCart_Sales_Report.png" alt="FlexCart Sales Dashboard Screenshot" width="100%">
 
 ---
 
